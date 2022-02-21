@@ -1,0 +1,26 @@
+
+body {
+    background: url("../assets/bg.jpg") no-repeat;
+    background-size: cover;
+    font-family: "Roboto", sans-serif;
+}
+
+header, footer {
+    width: 60%;
+    height: 5%;
+    background-color: #99a769;
+    border-radius: 2em;
+    margin-right: auto; 
+    margin-left: auto; 
+    margin-top: 5%;
+    margin-bottom: 5%;
+    justify-content: center;
+    text-align: center;
+    padding: 0.1% 0.1%;
+}
+
+div {
+    margin-right: auto; 
+    margin-left: auto; 
+    justify-content: center;
+ }
